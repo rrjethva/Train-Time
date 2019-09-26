@@ -1,0 +1,32 @@
+/* Google Font Montserrat to override Bootstrap Default
+@import url('https://fonts.googleapis.com/css?family=Montserrat'); */
+
+body {
+	font-family: 'Montserrat', sans-serif !important;
+}
+
+.jumbotron {
+
+    background-color: blue !important;
+    color: white !important;
+    
+}
+.header {
+	color: #000;
+	text-align: center;
+}
+
+
+.schedule-header {
+	background-color: green !important;
+}
+
+
+.form-header {
+	background-color: red !important;
+	color: #000;
+}
+
+.button-add {
+	background-color: red;
+}
